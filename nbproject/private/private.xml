@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/3rd%20semester/crud/src/views/HomeController.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/daoimpl/CountryDaoImpl.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/views/division.fxml</file>
+            <file>file:/F:/3rd%20semester/crud/src/views/Crud.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/models/Appointment.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/daoimpl/CustomerDaoImpl.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/models/Division.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/models/Country.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/dao/CountryDao.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/views/UserController.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/dao/UserDao.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/views/home.fxml</file>
+            <file>file:/F:/3rd%20semester/crud/src/views/DivisionController.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/dao/AppointmentDao.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/dao/CustomerDao.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/views/login.fxml</file>
+            <file>file:/F:/3rd%20semester/crud/src/daoimpl/DivisionDaoImpl.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/models/Contact.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/views/CustomerController.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/views/contact.fxml</file>
+            <file>file:/F:/3rd%20semester/crud/src/models/User.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/database/Database.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/daoimpl/ContactDaoImpl.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/views/customer.fxml</file>
+            <file>file:/F:/3rd%20semester/crud/src/views/appointment.fxml</file>
+            <file>file:/F:/3rd%20semester/crud/src/views/user.fxml</file>
+            <file>file:/F:/3rd%20semester/crud/src/dao/DivisionDao.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/daoimpl/AppointmentDaoImpl.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/views/AppointmentController.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/dao/ContactDao.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/views/ContactController.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/models/Customer.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/daoimpl/UserDaoImpl.java</file>
+            <file>file:/F:/3rd%20semester/crud/src/views/Controller.java</file>
+        </group>
+    </open-files>
+</project-private>
